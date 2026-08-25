@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "리천 논술문제 생성",
-  "short_name": "리천 논술문제 생성",
+  "name": "리천 논술 문제 AI BUILDER",
+  "short_name": "리천 논술 문제 AI BUILDER",
   "description": "교사가 논술 문제 패키지를 만들고 인쇄·공유하는 도구",
   "start_url": "./",
   "scope": "./",
